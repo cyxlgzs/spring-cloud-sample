@@ -1,0 +1,1 @@
+this is a project for spring cloud test, and show how a microservice started
